@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.navbar ul{
+	display:flex;
+	justify-content:space-evenly;
+	align-items:center;
+	background:black;
+	padding:20px;
+	border-radius:8px;
+	color:white;
+}
+.navbar ul li a{
+	text-decoration:none;
+	color:white;
+}
+ul li{
+	list-style-type:none;
+}
